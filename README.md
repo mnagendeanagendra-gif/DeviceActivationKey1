@@ -1,0 +1,2 @@
+# DeviceActivationKey1
+DeviceActivationKey2
